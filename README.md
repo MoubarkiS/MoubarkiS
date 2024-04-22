@@ -2,16 +2,13 @@
 <h2>Hey! 👋</h2>
 
 I'm Moubarki Salma! 
-- <i>Currently:</i>  Student at HETIC in France. 
+- <i>Currently:</i>  Student in France. 
 - <i>Previously:</i> Full Stack Software Engineer.
 - <i>Also:</i> Founder and Planning Event Manager.
 
 <h2>💻 I'm Currently learning on</h2>
 
-__HETIC MONTREUIL IN FRANCE__
-- Software Architecture
-- Quality Engineer
-- UX Design
+__WORLDWIDESCHOOL IN FRANCE__
 - Motion Graphic Design
 - Back End Development
 - Front End Development
